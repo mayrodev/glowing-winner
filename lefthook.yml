@@ -7,3 +7,8 @@ pre-commit:
   commands:
     bump-version:
       run: node scripts/bump-version.mjs
+
+post-commit:
+  commands:
+    tag-version:
+      run: node scripts/tag-version.mjs

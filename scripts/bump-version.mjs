@@ -25,3 +25,5 @@ writeFileSync('package.json', JSON.stringify(pkg, null, 2) + '\n');
 
 execSync('git add package.json');
 console.log(`bumped to ${pkg.version} (${bump})`);
+
+writeFileSync('.git/BUMP_VERSION', pkg.version);
