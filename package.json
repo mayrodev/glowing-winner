@@ -1,11 +1,10 @@
 {
   "name": "testing-version-code",
-  "version": "3.5.0",
+  "version": "3.7.0",
   "description": "",
   "main": "palindrome.ts",
   "scripts": {
-    "code": "ts-node palindrome.ts",
-    "release": "release-it"
+    "code": "ts-node palindrome.ts"
   },
   "keywords": [],
   "author": "",
@@ -13,10 +12,8 @@
   "devDependencies": {
     "@commitlint/cli": "^20.5.3",
     "@commitlint/config-conventional": "^20.5.3",
-    "@release-it/conventional-changelog": "^11.0.0",
     "@types/node": "^25.6.0",
     "lefthook": "^2.1.6",
-    "release-it": "^20.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.3"
   },

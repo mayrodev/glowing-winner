@@ -3,7 +3,7 @@ commit-msg:
     commitlint:
       run: npx --no -- commitlint --edit {1}
 
-pre-push:
+pre-commit:
   commands:
-    release:
-      run: npm run release -- --ci
+    bump-version:
+      run: node scripts/bump-version.mjs
