@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.9.2](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.9.1...testing-version-code-v3.9.2) (2026-05-05)
+
+
+### Bug Fixes
+
+* some alteration ([b61e8e0](https://github.com/mayrodev/glowing-winner/commit/b61e8e0850a370e16f587084211d4a3362561a1f))
+* trigger build on tag push instead of release published ([f837fa0](https://github.com/mayrodev/glowing-winner/commit/f837fa0ef0c92f82b6d54ac7c4420de3daa76201))
+
 ## [3.9.1](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.9.0...testing-version-code-v3.9.1) (2026-05-05)
 
 
