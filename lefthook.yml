@@ -2,10 +2,3 @@ commit-msg:
   commands:
     commitlint:
       run: npx --no -- commitlint --edit {1}
-    bump-version:
-      run: node scripts/bump-version.mjs {1}
-
-post-commit:
-  commands:
-    tag-version:
-      run: node scripts/tag-version.mjs
