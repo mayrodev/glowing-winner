@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.2.0...testing-version-code-v3.3.0) (2026-05-05)
+
+
+### Features
+
+* add fibonacci.ts ([0fdccc7](https://github.com/mayrodev/glowing-winner/commit/0fdccc77cf7d43caf94ca6ba0f4ef33521581cbe))
+
 ## [3.2.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.1.0...testing-version-code-v3.2.0) (2026-05-05)
 
 
