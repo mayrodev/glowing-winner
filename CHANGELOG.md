@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.1](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.4.0...testing-version-code-v3.4.1) (2026-05-05)
+
+
+### Bug Fixes
+
+* throw sei la o que ([8fdef15](https://github.com/mayrodev/glowing-winner/commit/8fdef1570ef87cde222c1fad2e73be156d45f0d8))
+
 ## [3.4.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.3.0...testing-version-code-v3.4.0) (2026-05-05)
 
 
