@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.2](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.4.1...testing-version-code-v3.4.2) (2026-05-05)
+
+
+### Bug Fixes
+
+* handle empty array in binarySearch ([8f51594](https://github.com/mayrodev/glowing-winner/commit/8f51594149391116c2536408974c07a95dbb4a8c))
+
 ## [3.4.1](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.4.0...testing-version-code-v3.4.1) (2026-05-05)
 
 
