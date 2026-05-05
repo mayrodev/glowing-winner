@@ -1,9 +1,8 @@
 name: Build
 
 on:
-  push:
-    tags:
-      - 'testing-version-code-v*'
+  release:
+    types: [published]
 
 jobs:
   build:
