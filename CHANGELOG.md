@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.9.3](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.9.2...testing-version-code-v3.9.3) (2026-05-05)
+
+
+### Bug Fixes
+
+* workflows ([8d25f98](https://github.com/mayrodev/glowing-winner/commit/8d25f9890b28e8dfc46f381c6df1218268892b8a))
+
 ## [3.9.2](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.9.1...testing-version-code-v3.9.2) (2026-05-05)
 
 
