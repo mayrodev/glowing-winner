@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.3.0...testing-version-code-v3.4.0) (2026-05-05)
+
+
+### Features
+
+* sei lá o que ([b9a9d47](https://github.com/mayrodev/glowing-winner/commit/b9a9d47c7197da943f56254b6a80e4c05289e4fc))
+
 ## [3.3.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.2.0...testing-version-code-v3.3.0) (2026-05-05)
 
 
