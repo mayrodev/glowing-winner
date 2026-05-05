@@ -2,3 +2,8 @@ commit-msg:
   commands:
     commitlint:
       run: npx --no -- commitlint --edit {1}
+
+pre-push:
+  commands:
+    release:
+      run: npm run release -- --ci
