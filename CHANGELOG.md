@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.4.2...testing-version-code-v3.5.0) (2026-05-05)
+
+
+### Features
+
+* add reverse string function ([c05413a](https://github.com/mayrodev/glowing-winner/commit/c05413af6445ed8432d923813558e710f6ffc58f))
+
 ## [3.4.2](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.4.1...testing-version-code-v3.4.2) (2026-05-05)
 
 
