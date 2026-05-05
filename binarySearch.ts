@@ -15,5 +15,6 @@ function binarySearch(arr: number[], target: number): number {
   return -1;
 }
 
-console.log(binarySearch([1, 3, 5, 7, 9, 11], 7));  // 3
-console.log(binarySearch([1, 3, 5, 7, 9, 11], 4));  // -1
+console.log(binarySearch([1, 3, 5, 7, 9, 11], 7));   // 3
+console.log(binarySearch([1, 3, 5, 7, 9, 11], 4));   // -1
+console.log(binarySearch([], 1));                     // -1
