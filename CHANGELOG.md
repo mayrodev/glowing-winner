@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.9.1](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.9.0...testing-version-code-v3.9.1) (2026-05-05)
+
+
+### Bug Fixes
+
+* handle empty string in reverseString ([8af16f4](https://github.com/mayrodev/glowing-winner/commit/8af16f403a49120b50e9b403c9af5a368e7e0a0d))
+
 ## [3.9.0](https://github.com/mayrodev/glowing-winner/compare/testing-version-code-v3.8.1...testing-version-code-v3.9.0) (2026-05-05)
 
 
