@@ -2,11 +2,8 @@ commit-msg:
   commands:
     commitlint:
       run: npx --no -- commitlint --edit {1}
-
-pre-commit:
-  commands:
     bump-version:
-      run: node scripts/bump-version.mjs
+      run: node scripts/bump-version.mjs {1}
 
 post-commit:
   commands:

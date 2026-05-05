@@ -1,7 +1,10 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { execSync } from 'child_process';
 
-const msg = readFileSync('.git/COMMIT_EDITMSG', 'utf8').trim();
+const args = process.argv.slice(2);
+const msg = args[0]
+  ? readFileSync(args[0], 'utf8').trim()
+  : readFileSync('.git/COMMIT_EDITMSG', 'utf8').trim();
 
 const isBreaking = msg.includes('BREAKING CHANGE') || /^[a-z]+(\(.+\))?!:/.test(msg);
 const type = msg.match(/^([a-z]+)(\(.+\))?(!)?:/)?.[1] ?? '';

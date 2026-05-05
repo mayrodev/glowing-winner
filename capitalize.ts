@@ -1,5 +1,5 @@
 function capitalize(str: string): string {
-  return str.toUpperCase();
+  return str.replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
-console.log(capitalize('hello world')); // HELLO WORLD (errado — deveria ser Hello World)
+console.log(capitalize('hello world')); // Hello World
