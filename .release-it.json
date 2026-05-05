@@ -3,7 +3,8 @@
     "commitMessage": "chore(release): ${version}",
     "tagName": "v${version}",
     "tagAnnotation": "Release v${version}",
-    "push": false
+    "push": false,
+    "requireUpstream": false
   },
   "github": {
     "release": false
